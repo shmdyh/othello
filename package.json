@@ -1,0 +1,19 @@
+{
+  "name": "othello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmdyh/othello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmdyh/othello/issues"
+  },
+  "homepage": "https://github.com/shmdyh/othello#readme"
+}
